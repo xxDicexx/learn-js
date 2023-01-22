@@ -1,0 +1,23 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "for learning java script",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i src/main.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxDicexx/learn-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxDicexx/learn-js/issues"
+  },
+  "homepage": "https://github.com/xxDicexx/learn-js#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
